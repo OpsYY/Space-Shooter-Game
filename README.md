@@ -1,4 +1,4 @@
-The Space Shooter User Manual
+<h1> The Space Shooter User Manual </h1>
  Space Shooter is a 2D action game designed using Unity. The main 
 objective of the game is to skillfully dodge enemy shots and destroy them 
 with using your own weapon! You earn points for each enemy you 
